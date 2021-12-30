@@ -1,4 +1,4 @@
-# Hi there 👋, I’m @NorbertBrett
+# Hi there 👋, I’m Norbert Brett
 
 - 👀 I’m interested in Web development and programming.
 - 🌱 I’m currently learning advanced JavaScript , VueJs and NuxtJS to be proficient in this technologies. I enjoy learning new technologies and extend my knowledge.
