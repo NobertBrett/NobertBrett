@@ -21,12 +21,17 @@ or on my social media:
 
 ## Technologies I use
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="86" /> &emsp;
+
+<img src="https://cdn.svgporn.com/logos/vue.svg" title="Vue JS" alt="Vue Logo" width="66" /> &emsp;
+<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" title="Nuxt JS" alt="Nuxt Logo" width="66"  /> &emsp;
+
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
 <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" alt="Python Logo" width="57" /> &emsp;
-<img src="https://cdn.svgporn.com/logos/vue.svg" title="Vue JS" alt="Vue Logo" width="66" /> &emsp;
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="86" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
 <!---
 NorbertBrett/NorbertBrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
