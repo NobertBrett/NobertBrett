@@ -38,7 +38,7 @@ or on my social media:
 <img src="https://cdn.svgporn.com/logos/netlify.svg" title="Netlify" alt="Netlify Logo" width="66" />&emsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertBrett&layout=compact&theme=tokyonight)](https://github.com/NorbertBrett/github-readme-stats)
+
 
 <!---
 NorbertBrett/NorbertBrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
