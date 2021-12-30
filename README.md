@@ -34,7 +34,7 @@ or on my social media:
 <img src="https://cdn.svgporn.com/logos/cypress.svg" title="Cypress" alt="Cypress Logo" width="66" /> &emsp;
 <img src="https://cdn.svgporn.com/logos/jest.svg" title="Jest" alt="Jest Logo" width="66" /> &emsp;
 <img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="66" />&emsp;
-<img src="https://cdn.svgporn.com/logos/github-icon.svg" title="GitHub" alt="GitHub Logo" width="66" />&emsp;
+<img src="https://cdn.svgporn.com/logos/github-octocat.svg" title="GitHub" alt="GitHub Logo" width="66" />&emsp;
 <img src="https://cdn.svgporn.com/logos/netlify.svg" title="Netlify" alt="Netlify Logo" width="66" />&emsp;
 
 
