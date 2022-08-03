@@ -5,7 +5,7 @@
 - 📚 Other experience and technologie I know : Python , HTML5 , CSS3 , NodeJS ,Java,  VB.Net , Git , Netlify, Netlify CMS.
 - 💽 Additional technical skills : Office 365 , Windows 10, 8, 7 and Server 2012, Active Directory , Cybersecurty.
 - 💞️ I’m looking to collaborate on JavaScript or Python projects, especially Vue JS and Nuxt JS.
-- 📫 You can reach me on my personal website at https://norbert-brett.netlify.app
+- 📫 You can reach me on my personal website at https://brett.vercel.app
 <br>
 or on my social media:
 <br>
