@@ -1,5 +1,17 @@
 # 💫 About Me:
-👀 I’m interested in Web development and Cybersecurity<br>🌱 I’m currently learning advanced JavaScript , VueJs and NuxtJS to be proficient in this technologies. I enjoy learning new technologies and extend my knowledge.<br>📚 Other experience and technologie I know : Python , HTML5 , CSS3 , NodeJS ,Java, VB.Net , Git , Netlify, Netlify CMS.<br>💽 Additional technical skills : Office 365 , Windows 10, 8, 7 and Server 2012, Active Directory , Cybersecurty.<br>💞️ I’m looking to collaborate on JavaScript or Python projects, especially Vue JS and Nuxt JS.<br>📫 You can reach me on my personal website at https://brett.vercel.app
+I am a web developer and cybersecurity enthusiast with a strong passion for problem solving and learning new technologies. My skills include:
+
+- Proficiency in JavaScript, HTML5, CSS3, Vue.js, Nuxt.js and Python.
+- Experience with Java, Django and Android.
+- Strong understanding of data structures and algorithms.
+- Experience with Git, Vercel, Netlify and Agile development.
+- Ability to work effectively in both team and individual settings
+
+I am currently learning advanced JavaScript and Vue.js/Nuxt.js in order to further develop my skills in these areas. I enjoy collaborating on projects and am always seeking new opportunities to challenge myself and expand my knowledge.
+
+In addition to my web development skills, I have experience with Office 365 and various versions of Windows and Windows Server, as well as knowledge of Active Directory and cybersecurity.
+
+I am excited to contribute my abilities to a dynamic and forward-thinking team, and am available for collaboration on JavaScript or Python projects, especially those involving Vue.js and Nuxt.js. You can reach me on my personal website at https://brett.vercel.app.
 
 
 ## 🌐 Socials:
