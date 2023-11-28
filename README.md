@@ -11,7 +11,7 @@ I am currently learning advanced JavaScript and Vue.js/Nuxt.js in order to furth
 
 In addition to my web development skills, I have experience with Office 365 and various versions of Windows and Windows Server, as well as knowledge of Active Directory and cybersecurity.
 
-I am excited to contribute my abilities to a dynamic and forward-thinking team, and am available for collaboration on JavaScript or Python projects, especially those involving Vue.js and Nuxt.js. You can reach me on my personal website at https://brett.vercel.app.
+I am excited to contribute my abilities to a dynamic and forward-thinking team, and am available for collaboration on JavaScript or Python projects, especially those involving Vue.js and Nuxt.js.
 
 
 ## 🌐 Socials:
