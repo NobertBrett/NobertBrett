@@ -1,17 +1,9 @@
 # 💫 About Me:
-I am a web developer and cybersecurity enthusiast with a strong passion for problem solving and learning new technologies. My skills include:
+I am a creative problem-solver who is passionate about developing flawless digital experiences. My work history shows I have successfully increased engagement and conversions by creating responsive front-ends that users genuinely enjoy.
 
-- Proficiency in JavaScript, HTML5, CSS3, Vue.js, Nuxt.js and Python.
-- Experience with Java, Django and Android.
-- Strong understanding of data structures and algorithms.
-- Experience with Git, Vercel, Netlify and Agile development.
-- Ability to work effectively in both team and individual settings
+I have the superpower of quickly mastering new technologies, explaining complex concepts in a straightforward manner, and collaboratively working with cross-functional teams to deliver results. I bring ideas to life by producing clean, maintainable code optimized for performance.
 
-I am currently learning advanced JavaScript and Vue.js/Nuxt.js in order to further develop my skills in these areas. I enjoy collaborating on projects and am always seeking new opportunities to challenge myself and expand my knowledge.
-
-In addition to my web development skills, I have experience with Office 365 and various versions of Windows and Windows Server, as well as knowledge of Active Directory and cybersecurity.
-
-I am excited to contribute my abilities to a dynamic and forward-thinking team, and am available for collaboration on JavaScript or Python projects, especially those involving Vue.js and Nuxt.js.
+When I'm not coding, I enjoy staying up-to-date with the latest technologies and helping companies succeed. If you want to chat about how we can work together to create something extraordinary, please contact me!
 
 
 ## 🌐 Socials:
